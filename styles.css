@@ -1,0 +1,40 @@
+body{
+	background-color: red;
+}
+
+hl{
+   font-size: 100px;
+}
+
+img{
+	width: 35%;
+	border: solid;
+	border-radius: 25px;
+	background-color: white;
+	border-color: black;
+	border-width: 10px;
+	padding: 50px;
+	margin-left: 100px;
+}
+
+h2 {
+	color: black
+	width: 500px;
+	 padding: 20px;
+	margin: 20px;
+	background-color: white;
+}
+ 
+ul {
+	color: black;
+	 padding: 20px;
+	margin: 20px;
+	background-color: white;
+}
+
+ol {
+	color: black;
+	 padding: 20px;
+	margin: 20px;
+	background-color: white;
+}
